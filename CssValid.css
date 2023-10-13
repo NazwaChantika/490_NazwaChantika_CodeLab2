@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 50vh;
+    background-color: #2596be; /* Blue background color */
+}
+
+.container {
+    background-color: white;
+    padding: 25px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+.FormGw input {
+    opacity: 50%;
+    background-color: rgb(183, 178, 178);
+}
+.FormGw textarea{
+    opacity: 50%;
+    background-color: rgb(183, 178, 178);
+}
+
+.panjangin {
+    width: 99%;
+    height: 5vh;
+}
+.baten{
+    background-color: rgb(73, 119, 183);
+    color: white;
+    width: 90px;
+    height: 50px;
+}
